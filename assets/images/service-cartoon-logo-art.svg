@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#05485a" />
+      <stop offset="1" stop-color="#07182c" />
+    </linearGradient>
+    <clipPath id="mark"><circle cx="820" cy="398" r="244" /></clipPath>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)" />
+  <circle cx="1010" cy="150" r="230" fill="#29e7ff" opacity=".11" />
+  <rect x="55" y="55" width="1090" height="690" rx="34" fill="#071426" stroke="#426381" stroke-width="2" />
+  <text x="100" y="132" fill="#29e7ff" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4">MASCOT MARK / 02</text>
+  <text x="100" y="260" fill="#ffffff" font-family="Arial,sans-serif" font-size="58" font-weight="800">A character-led</text>
+  <text x="100" y="329" fill="#ddff29" font-family="Arial,sans-serif" font-size="66" font-weight="800">logo that scales.</text>
+  <rect x="104" y="365" width="348" height="12" rx="6" fill="#a9b8ce" opacity=".65" />
+  <rect x="104" y="392" width="294" height="12" rx="6" fill="#a9b8ce" opacity=".45" />
+  <rect x="102" y="474" width="252" height="100" rx="20" fill="#10243c" stroke="#33516f" />
+  <path d="m135 532 12-38 24 20 24-36 25 36 24-20 12 38z" fill="#ddff29" />
+  <rect x="137" y="538" width="116" height="8" rx="4" fill="#ff3dce" />
+  <text x="382" y="515" fill="#ffffff" font-family="Arial,sans-serif" font-size="16" font-weight="700">PRIMARY LOCKUP</text>
+  <text x="382" y="545" fill="#a9b8ce" font-family="Arial,sans-serif" font-size="14">Readable from sign to screen</text>
+  <g clip-path="url(#mark)">
+    <image href="mascot-rexy.jpg" x="576" y="154" width="488" height="488" preserveAspectRatio="xMidYMid slice" />
+    <circle cx="820" cy="398" r="244" fill="#ff3dce" opacity=".1" />
+  </g>
+  <circle cx="820" cy="398" r="256" fill="none" stroke="#ddff29" stroke-width="8" />
+  <circle cx="1080" cy="398" r="47" fill="#ff3dce" />
+  <text x="1080" y="407" text-anchor="middle" fill="#071426" font-family="Arial,sans-serif" font-size="24" font-weight="900">A</text>
+  <text x="820" y="706" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">AVATAR / PACKAGING / SIGNAGE</text>
+</svg>
